@@ -43,9 +43,9 @@ Dataset Link: https://drive.google.com/drive/folders/1zNlbsrpfeqcDhbYrOzFIN5L_Cj
 
 ## ▶️ How to Run
 
-1. Install required libraries
-2. Open the Jupyter Notebook (.ipynb)
-3. Run all cells
+1. Open the notebook in Google Colab
+2. Upload the dataset (or use the provided dataset link)
+3. Run all cells step by step
 
 ## 👨‍💻 Author
 
